@@ -110,7 +110,3 @@ Pull requests and suggestions are welcome.
 
 This project is open-source and available under the MIT License.
 
-```
-
-If you want, next we can make your README **look premium** with badges, screenshots, and API documentation so recruiters get impressed instantly.
-```
