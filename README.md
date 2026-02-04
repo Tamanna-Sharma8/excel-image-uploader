@@ -1,5 +1,4 @@
 # excel-image-uploader
-Here’s a professional **README.md** you can use for your repository **excel-image-uploader**. You can copy this into a `README.md` file in your repo.
 
 ```markdown
 # Excel Image Uploader
