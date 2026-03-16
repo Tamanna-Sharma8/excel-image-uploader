@@ -112,5 +112,5 @@ final requirements added
 
 
 16-March:
-Did Marlin project setup and cli.
+Did Marlin project setup and cli.and it almost took me 2hr + to complete it all
 
