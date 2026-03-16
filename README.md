@@ -110,3 +110,7 @@ This project is open-source and available under the MIT License.
 =================
 final requirements added
 
+
+16-March:
+Did Marlin project setup and cli.
+
